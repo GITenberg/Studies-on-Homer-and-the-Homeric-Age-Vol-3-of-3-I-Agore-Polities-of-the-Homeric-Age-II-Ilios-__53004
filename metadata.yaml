@@ -1,5 +1,8 @@
 _repo: Studies-on-Homer-and-the-Homeric-Age-Vol-3-of-3-I-Agore-Polities-of-the-Homeric-Age-II-Ilios-__53004
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53004-h/images/cover.jpg
 creator:
   author:
     agent_name: Gladstone, W. E. (William Ewart)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1195
     wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53004#Studies-on-Homer-and-the-Homeric-Age-Vol-3-of-3-I-Agore-Polities-of-the-Homeric-Age-II-Ilios-_
 gutenberg_issued: '2016-09-07'
 gutenberg_type: Text
 identifiers:
