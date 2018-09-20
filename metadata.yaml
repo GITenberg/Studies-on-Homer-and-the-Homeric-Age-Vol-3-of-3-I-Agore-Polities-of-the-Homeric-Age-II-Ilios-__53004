@@ -1,0 +1,32 @@
+_repo: Studies-on-Homer-and-the-Homeric-Age-Vol-3-of-3-I-Agore-Polities-of-the-Homeric-Age-II-Ilios-__53004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gladstone, W. E. (William Ewart)
+    aliases:
+    - Gladstone, William Ewart
+    - Gladstone, William E. (William Ewart)
+    birthdate: 1809
+    deathdate: 1898
+    gutenberg_agent_id: '1195'
+    url: http://www.gutenberg.org/2009/agents/1195
+    wikipedia: http://en.wikipedia.org/wiki/William_Ewart_Gladstone
+description: ''
+gutenberg_issued: '2016-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Homeric'
+- !lcsh 'Homer'
+- !lcsh 'Epic poetry, Greek -- History and criticism'
+- !lcc 'PA'
+- GITenberg
+title: "Studies on Homer and the Homeric Age, Vol. 3 of 3\r\nI. Agorè: Polities of\
+  \ the Homeric Age. II. Ilios: Trojans and Greeks Compared. III. Thalassa: The Outer\
+  \ Geography. IV. Aoidos: Some Points of the Poetry of Homer."
+url: http://www.gutenberg.org/ebooks/53004
